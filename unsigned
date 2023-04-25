@@ -1,0 +1,9 @@
+fun main() {
+    // Unsigned
+
+    println("ULong MAX - ${ULong.MAX_VALUE} - ${ULong.MIN_VALUE}")
+    println("UInt MAX - ${UInt.MAX_VALUE} - ${UInt.MIN_VALUE}")
+    println("UShort - ${UShort.MAX_VALUE} - ${UShort.MIN_VALUE}")
+    println("UByte - ${UByte.MAX_VALUE} - ${UByte.MIN_VALUE}")
+    
+}
